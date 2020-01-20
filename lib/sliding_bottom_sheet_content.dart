@@ -38,7 +38,7 @@ class BottomSheetContent extends StatelessWidget {
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: <Widget>[
                               Text(
-                                "The Curtain Hotel",
+                                "Burj Al Arab",
                                 style: TextStyle(
                                     color: themeData.primaryColorLight, fontSize: 24),
                               ),
@@ -72,7 +72,7 @@ class BottomSheetContent extends StatelessWidget {
                                 color: themeData.textTheme.display3.color,
                               ),
                               const SizedBox(width: 5),
-                              Text("45 Curtain Road, London EC2A 3PT"),
+                              Text("Dubai"),
                             ],
                           ),
                           const SizedBox(height: 18),

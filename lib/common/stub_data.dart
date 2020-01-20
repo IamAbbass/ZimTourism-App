@@ -16,8 +16,8 @@ class StubData {
 
   List<HotelCard> get hotels => [
         HotelCard(
-          title: "Hard Rock Hotel1",
-          subTitle: "Central London",
+          title: "Burj Al Arab",
+          subTitle: "Dubai",
           imageAsset: "img/hotel_1.jpg",
         ),
         HotelCard(

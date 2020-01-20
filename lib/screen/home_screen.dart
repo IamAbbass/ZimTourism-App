@@ -64,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
                     const SizedBox(height: 12),
-                    Text("Hello Alex,",
+                    Text("Hello Arsalan,",
                         style: themeData.textTheme.display2),
                     const SizedBox(height: 8),
                     Text("Find your perfect places",
