@@ -1,0 +1,4 @@
+#Mon Jan 20 16:00:17 PKT 2020
+base.0=D\:\\AppDev\\ZimTourism-App\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
